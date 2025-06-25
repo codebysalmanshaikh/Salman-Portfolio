@@ -17,7 +17,7 @@ const projects = [
         tech: ["React", "Tailwind CSS", "React Router DOM", "Vite"],
         live: "https://employee-task-tracker-eight.vercel.app/",
         github: "https://github.com/codebysalmanshaikh/employee-task-tracker.git",
-        // Optional: image or icon
+        
     },
 ];
 

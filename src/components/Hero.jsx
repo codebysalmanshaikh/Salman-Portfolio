@@ -8,7 +8,6 @@ const Hero = () => {
             id="home"
             className="flex flex-col-reverse md:flex-row items-center justify-between gap-8 max-w-6xl mx-auto px-4 pt-24 md:pt-32 pb-10"
         >
-            {/* Text Content */}
             <div className="flex-1 text-center md:text-left">
                 <h1 className="text-4xl md:text-5xl font-extrabold mb-4 text-teal-300">
                     Hi, I'm <span className="text-teal-400">Salman</span>
@@ -24,9 +23,9 @@ const Hero = () => {
                     View My Work
                 </a>
             </div>
-            {/* Lottie Animation */}
+            
             <div className="flex-1 flex items-center justify-center mb-10 md:mb-0">
-                {/* Uncomment below and add your lottie file */}
+                
                 <Lottie animationData={heroAnimation} loop={true} className="w-56 md:w-72" />
                 {/* <div className="w-48 h-48 md:w-72 md:h-72 bg-gray-800 rounded-full flex items-center justify-center shadow-lg">
                     Placeholder for Lottie animation 

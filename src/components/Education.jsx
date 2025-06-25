@@ -8,7 +8,7 @@ const Education = () => {
                     Education
                 </h2>
                 <div className="space-y-8">
-                    {/* BCA */}
+                    
                     <div className="bg-gray-800 rounded-xl shadow-lg p-7">
                         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2">
                             <div>
@@ -26,7 +26,7 @@ const Education = () => {
                                     </li>
                                 </ul>
                             </div>
-                            {/* GPA Progress Bar */}
+                            
                             <div className="w-full md:w-72 mt-6 md:mt-0 flex flex-col items-center">
                                 <span className="mb-1 text-sm font-medium text-teal-300">GPA: <span className="text-lg font-bold text-white">8.28</span> <span className="ml-2 bg-teal-400 text-gray-900 font-semibold px-3 py-1 rounded-full text-xs">A+</span></span>
                                 <div className="w-full bg-gray-700 rounded-full h-4 shadow-inner">
@@ -38,7 +38,7 @@ const Education = () => {
                             </div>
                         </div>
                     </div>
-                    {/* 12th */}
+                    
                     <div className="bg-gray-800 rounded-xl shadow-lg p-7">
                         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2">
                             <div>

@@ -5,7 +5,7 @@ const About = () => {
     return (
         <section id="about" className="bg-gray-900 py-16 px-4">
             <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-10">
-                {/* Avatar or Image (Optional) */}
+                
                 <div className="flex-shrink-0 mb-6 md:mb-0">
                     <img
                         src={profileImage}
@@ -14,7 +14,6 @@ const About = () => {
                     />
                 </div>
 
-                {/* About Text */}
                 <div>
                     <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">About Me</h2>
                     <p className="text-lg text-gray-300 mb-4">
