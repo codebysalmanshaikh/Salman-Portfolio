@@ -27,8 +27,10 @@ const Contact = () => {
                     Have a question, proposal, or just want to say hi? Fill out the form below or connect with me on social media.
                 </p>
                 <form
+                    action="https://formspree.io/f/mjkrpygz"
                     className="bg-gray-900 p-8 rounded-xl shadow-lg flex flex-col gap-6"
                     onSubmit={handleSubmit}
+                    method="POST"
                 >
                     <input
                         type="text"
