@@ -20,7 +20,7 @@ const About = () => {
                         Hi! I’m <span className="text-teal-400 font-semibold">Salman</span>, a passionate frontend web developer with a love for creating beautiful, responsive, and user-friendly websites and applications.
                     </p>
                     <p className="text-lg text-gray-400 mb-4">
-                        My expertise is in <span className="text-teal-300">React</span>, <span className="text-teal-300">Tailwind CSS</span>, and modern frontend technologies. I enjoy turning complex problems into simple, elegant solutions and always strive to deliver a seamless user experience.
+                        My expertise is in <span className="text-teal-300">JavaScript</span>, <span className="text-teal-300">React</span>, <span className="text-teal-300">Tailwind CSS</span>, and modern frontend technologies.  I focus on creating <span className="text-teal-200">SEO-optimized</span> websites that are built to rank and convert. Solving problems with clean, elegant code and improving user experience is what I enjoy most.
                     </p>
                     <p className="text-lg text-gray-400">
                         When I’m not coding, you’ll find me exploring new tech, working on side projects, or enjoying a good cup of coffee.
