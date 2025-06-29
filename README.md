@@ -1,12 +1,74 @@
-# React + Vite
+# 🧑‍💻 Salman Shaikh — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Portfolio Banner](https://github.com/codebysalmanshaikh/Salman-Portfolio/assets/your-banner-if-any.png)
 
-Currently, two official plugins are available:
+Welcome to the official GitHub repository of my **personal portfolio website**, built using **React**, **Tailwind CSS**, and powered by **Vite**. This portfolio showcases everything about me—from my **skills, projects, and education** to **extra-curricular achievements**, and features a **fully functional contact form** that reaches my official email.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Site**: [salman-portfolio.vercel.app](https://salman-portfolio-salman-shaikhs-projects-3622cdda.vercel.app/)  
+📂 **Repository**: [GitHub](https://github.com/codebysalmanshaikh/Salman-Portfolio.git)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Tech            | Description                             |
+|-----------------|-----------------------------------------|
+| ⚛️ React        | JavaScript library for building UI      |
+| 🚀 Vite         | Fast development build tool             |
+| 💨 Tailwind CSS | Utility-first CSS framework             |
+| 🎞️ Lottie      | For smooth and engaging animations       |
+| 🔧 React Icons  | Icon library for React-based projects   |
+| 📬 EmailJS      | Contact form integration with email     |
+
+---
+
+## 📌 Features
+
+- ✅ **Responsive design** for all screen sizes
+- ✅ **Dark-themed**, modern UI with a clean layout
+- ✅ **"About Me"** section with personal intro and skills
+- ✅ **Projects** showcase with live links & GitHub repos
+- ✅ **Education & Certificates** timeline
+- ✅ **Extra-curricular activities** and achievements
+- ✅ **Animated Lottie illustrations**
+- ✅ **Live Contact Form** (connected to email)
+- ✅ **SEO-friendly structure** for better discoverability
+
+---
+
+## 🚀 Sections Overview
+
+### 📘 About Me
+A brief introduction to who I am, my tech stack, and development journey.
+
+### 💼 Projects
+Detailed project cards with tech stack, GitHub links, and live previews.
+
+### 🎓 Education
+My academic background, institutions, and achievements.
+
+### 🏅 Extra-curriculars
+Clubs, events, hackathons, and recognitions beyond academics.
+
+### 📬 Contact Me
+A live contact form that directly sends messages to my email address.  
+Integrated securely using **Formspree**.
+
+---
+
+## 🧪 Local Setup
+
+Want to run the project locally?
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/codebysalmanshaikh/Salman-Portfolio.git
+
+# 2. Navigate to the folder
+cd Salman-Portfolio
+
+# 3. Install dependencies
+npm install
+
+# 4. Start development server
+npm run dev
